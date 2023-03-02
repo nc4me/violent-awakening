@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 2940046145,
+  "Title": "Violent Awakening",
+  "Description": "Wake those pesky sleeping lazybones NPCs with more vigor! Changes the text for waking an NPC from \"You gently shake the [NPC] awake.\" to \"You violently shake the [NPC] awake.\"",
+  "Tags": "QoL,combat",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}

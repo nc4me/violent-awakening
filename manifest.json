@@ -1,0 +1,9 @@
+{
+	"id": "ViolentAwakening",
+	"title": "Violent Awakening",
+	"description": "Violently shake awake sleeping NPCs.",
+	"tags": "QoL,combat",
+	"version": "0.0.1",
+	"author": "nc4me",
+	"previewImage": "VA.png"
+}
